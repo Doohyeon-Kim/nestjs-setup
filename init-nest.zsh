@@ -25,9 +25,11 @@ yarn add @nestjs/cli
 yarn add @nestjs/core
 yarn add @nestjs/common
 yarn add @nestjs/typeorm  
+yarn add config
 yarn add @nestjs/swagger
 yarn add passport
 yarn add passport-jwt
 yarn add @nestjs/jwt
 yarn add @nestjs/passport
+
 yarn install
