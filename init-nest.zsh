@@ -21,6 +21,7 @@ ZipFS -a zip file system
 yarn add npm
 yarn add rxjs
 yarn add reflect-metadata
+yarn add source-map-support
 yarn add @nestjs/cli
 yarn add @nestjs/core
 yarn add @nestjs/common
