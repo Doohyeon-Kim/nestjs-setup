@@ -17,16 +17,22 @@ yarn dlx @yarnpkg/sdks vscode
 # ZipFS for vscode to read from zip archive file.
 ZipFS -a zip file system
 
-
+yarn plugin import typescript
+yarn dlx @yarnpkg/sdks vscode
+yarn add js-yaml
 yarn add npm
 yarn add rxjs
 yarn add reflect-metadata
 yarn add source-map-support
+yarn add tsconfig-paths
+yarn add express
+yarn add @nestjs/platform-express
 yarn add @nestjs/cli
 yarn add @nestjs/core
 yarn add @nestjs/common
 yarn add @nestjs/typeorm  
-yarn add config
+yarn add config 
+yarn add swagger-ui-express
 yarn add @nestjs/swagger
 yarn add passport
 yarn add passport-jwt
