@@ -18,6 +18,7 @@ yarn dlx @yarnpkg/sdks vscode
 ZipFS -a zip file system
 
 
+yarn add npm
 yarn add rxjs
 yarn add reflect-metadata
 yarn add @nestjs/cli
