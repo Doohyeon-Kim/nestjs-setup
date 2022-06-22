@@ -8,17 +8,15 @@ yarn -v
 yarn init
 
 # typescript
-yarn add -D typescript @tpyes/node
 yarn add -D ts-node
 
 # yarn berry recognition plug-in for vscode.
 yarn dlx @yarnpkg/sdks vscode
-
+# yarn add -D typescript @tpyes/node
 # ZipFS for vscode to read from zip archive file.
 ZipFS -a zip file system
 
 yarn plugin import typescript
-yarn dlx @yarnpkg/sdks vscode
 yarn add js-yaml
 yarn add npm
 yarn add rxjs
@@ -38,7 +36,7 @@ yarn add passport
 yarn add passport-jwt
 yarn add @nestjs/jwt
 yarn add @nestjs/passport
-yarn add bcrypt
+#yarn add bcrypt
 yarn add @types/bcryps
 yarn add class-transformer
 yarn add class-validator
