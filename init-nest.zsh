@@ -38,5 +38,7 @@ yarn add passport
 yarn add passport-jwt
 yarn add @nestjs/jwt
 yarn add @nestjs/passport
+yarn add bcrypt
+yarn add @types/bcryps
 
 yarn install
