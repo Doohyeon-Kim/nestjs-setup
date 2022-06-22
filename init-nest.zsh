@@ -40,5 +40,7 @@ yarn add @nestjs/jwt
 yarn add @nestjs/passport
 yarn add bcrypt
 yarn add @types/bcryps
+yarn add class-transformer
+yarn add class-validator
 
 yarn install
