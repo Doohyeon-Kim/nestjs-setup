@@ -30,6 +30,8 @@ yarn add @nestjs/core
 yarn add @nestjs/common
 yarn add @nestjs/typeorm  
 yarn add config 
+yarn add @nestjs/config
+yarn add dotenv-expand
 yarn add swagger-ui-express
 yarn add @nestjs/swagger
 yarn add passport
