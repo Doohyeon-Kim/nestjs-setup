@@ -43,5 +43,7 @@ yarn add @types/bcryps
 yarn add class-transformer
 yarn add class-validator
 yarn add pg
+yarn add uuid
+yarn add @types/uuid
 
 yarn install
