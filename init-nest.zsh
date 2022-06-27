@@ -10,11 +10,11 @@ yarn init
 # typescript
 yarn add -D ts-node
 
-# yarn berry recognition plug-in for vscode.
-yarn dlx @yarnpkg/sdks vscode
+# // yarn berry recognition plug-in for vscode.
+# yarn dlx @yarnpkg/sdks vscode
 # yarn add -D typescript @tpyes/node
-# ZipFS for vscode to read from zip archive file.
-ZipFS -a zip file system
+# // ZipFS for vscode to read from zip archive file.
+# ZipFS -a zip file system
 
 yarn plugin import typescript
 yarn add js-yaml
