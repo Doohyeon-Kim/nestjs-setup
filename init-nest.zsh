@@ -16,7 +16,11 @@ yarn add -D ts-node
 # // ZipFS for vscode to read from zip archive file.
 # ZipFS -a zip file system
 
-yarn plugin import typescript
+# yarn plugin import typescript
+yarn add typescript
+yarn add @types/node  
+yarn add typeorm  
+yarn add @nestjs/typeorm  
 yarn add js-yaml
 yarn add npm
 yarn add rxjs
@@ -28,7 +32,6 @@ yarn add @nestjs/platform-express
 yarn add @nestjs/cli
 yarn add @nestjs/core
 yarn add @nestjs/common
-yarn add @nestjs/typeorm  
 yarn add config 
 yarn add @nestjs/config
 yarn add dotenv-expand
@@ -39,7 +42,7 @@ yarn add passport-jwt
 yarn add @nestjs/jwt
 yarn add @nestjs/passport
 yarn add bcrypt
-yarn add @types/bcryps
+yarn add @types/bcrypt
 yarn add class-transformer
 yarn add class-validator
 yarn add pg
