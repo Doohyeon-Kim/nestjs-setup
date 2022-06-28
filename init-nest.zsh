@@ -48,6 +48,6 @@ yarn add class-validator
 yarn add pg
 yarn add uuid
 yarn add @types/uuid
- nest add joi
+yarn add joi
 
 yarn install
