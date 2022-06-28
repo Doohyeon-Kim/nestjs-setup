@@ -49,5 +49,7 @@ yarn add pg
 yarn add uuid
 yarn add @types/uuid
 yarn add joi
+yarn add @types/nodemailer
+yarn add nodemailer
 
 yarn install
