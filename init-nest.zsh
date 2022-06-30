@@ -33,7 +33,7 @@ yarn add @nestjs/cli
 yarn add @nestjs/core
 yarn add @nestjs/common
 yarn add config 
-yarn add @nestjs/config\
+yarn add @nestjs/config
 yarn add @nestjs/schematics
 #yarn add dotenv-expand
 yarn add swagger-ui-express
