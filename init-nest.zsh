@@ -42,7 +42,7 @@ yarn add passport
 yarn add passport-jwt
 yarn add @nestjs/passport
 yarn add @nestjs/jwt
-yarn add jsonwebtoken
+#yarn add jsonwebtoken
 yarn add bcrypt
 yarn add @types/bcrypt
 yarn add class-transformer
