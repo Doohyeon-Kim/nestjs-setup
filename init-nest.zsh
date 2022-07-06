@@ -53,5 +53,6 @@ yarn add @types/uuid
 yarn add joi
 yarn add @types/nodemailer
 yarn add nodemailer
+yarn add moment
 
 yarn install
